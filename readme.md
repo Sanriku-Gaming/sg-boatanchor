@@ -45,4 +45,5 @@ Some key options:
 ## Credits
 
 - [Nicky](https://forum.cfx.re/u/Sanriku)
-- [SG Scripts Discord](https://discord.gg/uEDNgAwhey)
+- Join the discord for support: 
+  [SG Scripts Discord](https://discord.gg/uEDNgAwhey)
